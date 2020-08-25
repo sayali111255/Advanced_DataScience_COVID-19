@@ -1,0 +1,63 @@
+long;countryOrRegion;provinceOrState;county;isoCode;lat;totalConfirmedCases;newlyConfirmedCases;totalDeaths;newDeaths;totalRecoveredCases;newlyRecoveredCases
+144.793731;United States;Guam;;;13.444304;32;0;1;0;0;0
+-66.590149;United States;Puerto Rico;;;18.220833;14499;0;83;0;391;0
+-64.896335;United States;U.S. Virgin Islands;;;18.335765;17;0;0;0;0;0
+-86.902298;United States;Alabama;;US-AL;32.318231;76005;1792;1438;41;32510;0
+-154.493062;United States;Alaska;;US-AK;63.588753;2746;0;21;0;798;0
+-111.093731;United States;Arizona;;US-AZ;34.048928;156301;3271;3142;75;19737;0
+-91.831833;United States;Arkansas;;US-AR;35.20105;36259;0;388;0;28864;0
+-119.417932;United States;California;;US-CA;36.778261;434160;0;8657;0;131176;0
+-105.782067;United States;Colorado;;US-CO;39.550051;42425;0;1790;0;15639;0
+-73.087749;United States;Connecticut;;US-CT;41.603221;48232;0;4411;0;21849;0
+139.638;United States;Cruise Ship: Diamond Princess;;;35.4437;46;0;0;0;0;0
+-122.6655;United States;Cruise Ship: Grand Princess;;;37.6489;21;0;0;0;0;0
+-75.52767;United States;Delaware;;US-DE;38.910832;13924;0;529;0;7893;0
+-77.0369;United States;District of Columbia;;US-DC;38.9072;11649;78;581;0;2020;0
+-81.515754;United States;Florida;;US-FL;27.664827;402312;12444;5653;133;39951;0
+-82.907123;United States;Georgia;;US-GA;32.157435;156588;0;3373;0;25819;0
+-155.665857;United States;Hawaii;;US-HI;19.898682;1490;0;26;0;1125;0
+-114.742041;United States;Idaho;;US-ID;44.068202;16866;0;143;0;5008;0
+-89.398528;United States;Illinois;;US-IL;40.633125;168100;0;7560;0;139973;0
+-85.602364;United States;Indiana;;US-IN;40.551217;61086;0;2885;0;42603;0
+-93.097702;United States;Iowa;;US-IA;41.878003;41000;202;823;0;29147;191
+-98.484246;United States;Kansas;;US-KS;39.011902;24618;0;335;0;13585;0
+-84.270018;United States;Kentucky;;US-KY;37.839333;25832;0;710;0;7046;0
+-92.145024;United States;Louisiana;;US-LA;31.244823;101817;0;3690;0;61456;0
+-69.445469;United States;Maine;;US-ME;45.253783;3757;16;118;0;3259;20
+-76.641271;United States;Maryland;;US-MD;39.045755;81766;930;3422;13;5434;0
+-71.382437;United States;Massachusetts;;US-MA;42.407211;114647;321;8484;3;96452;0
+-85.602364;United States;Michigan;;US-MI;44.314844;84599;0;6409;0;55162;0
+-94.6859;United States;Minnesota;;US-MN;46.729553;48721;0;1601;0;42524;0
+-89.398528;United States;Mississippi;;US-MS;32.354668;48053;0;1439;0;30315;0
+-91.831833;United States;Missouri;;US-MO;37.964253;39673;0;1255;0;7722;0
+-110.362566;United States;Montana;;US-MT;46.879682;3039;110;46;3;1587;0
+-99.901813;United States;Nebraska;;US-NE;41.492537;23818;0;321;0;17745;0
+-116.419389;United States;Nevada;;US-NV;38.80261;40090;0;709;0;24905;0
+-71.572395;United States;New Hampshire;;US-NH;43.193852;6321;0;405;0;5345;0
+-74.405661;United States;New Jersey;;US-NJ;40.058324;184029;0;15808;0;113500;0
+-105.032363;United States;New Mexico;;US-NM;34.97273;18625;0;599;0;7056;0
+-74.217933;United States;New York;;US-NY;43.299428;437529;0;33366;0;264165;0
+-79.0193;United States;North Carolina;;US-NC;35.759573;107499;0;1783;0;78707;0
+-101.002012;United States;North Dakota;;US-ND;47.551493;5497;0;97;0;4475;0
+145.75;United States;Northern Mariana Islands;;;15.183333;52;0;4;0;11;0
+-82.907123;United States;Ohio;;US-OH;40.417287;80229;0;3271;0;55702;0
+-97.092877;United States;Oklahoma;;US-OK;35.007752;28802;0;477;0;22441;0
+-120.554201;United States;Oregon;;US-OR;43.804133;15769;0;278;0;3509;0
+-77.194525;United States;Pennsylvania;;US-PA;41.203322;109679;523;7176;12;78268;0
+-71.477429;United States;Rhode Island;;US-RI;41.580095;18148;0;1001;0;1759;0
+-81.163725;United States;South Carolina;;US-SC;33.836081;76606;0;1334;0;27062;0
+-99.901813;United States;South Dakota;;US-SD;43.969515;8151;0;123;0;7214;0
+-86.580447;United States;Tennessee;;US-TN;35.517491;86987;0;1412;0;51661;0
+-99.901813;United States;Texas;;US-TX;31.968599;377396;0;4762;0;203826;0
+-111.093731;United States;Utah;;US-UT;39.32098;36640;0;276;0;23093;0
+-72.577841;United States;Vermont;;US-VT;44.558803;1377;0;57;0;1156;0
+-78.656894;United States;Virginia;;US-VA;37.431573;82364;1127;2067;13;10576;97
+-120.740139;United States;Washington;;US-WA;47.751074;52258;0;1550;0;16928;0
+-80.454903;United States;West Virginia;;;38.597626;5653;87;104;0;3946;33
+-88.787868;United States;Wisconsin;;US-WI;43.78444;46109;0;882;0;35502;0
+-107.290284;United States;Wyoming;;US-WY;43.075968;2349;0;25;0;1794;0
+;United States;Veteran Affairs;;;;6692;0;413;0;0;0
+;United States;US Military;;;;6213;0;26;0;1947;0
+;United States;Navajo Nation;;;;1540;0;58;0;0;0
+;United States;Federal Prisons;;;;1047;0;26;0;507;0
+;United States;Wuhan Repatriated;;;;3;0;0;0;0;0
